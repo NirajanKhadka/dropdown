@@ -1,0 +1,22 @@
+/* *,*::after,*::before {
+    overflow-x: hidden;
+} */
+
+#imageCollapsed{
+    width: 18px;
+    height: 18px;
+    background-image: url('/icon-arrow-down.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 3px;
+    margin-left: 10px;
+}
+#imageExpanded{
+    width: 18px;
+    height: 18px;
+    background-image: url('/icon-arrow-up.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 3px;
+    margin-left: 10px;
+}
